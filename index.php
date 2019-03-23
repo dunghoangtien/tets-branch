@@ -14,7 +14,7 @@
 			<label for="">label</label>
 			<input type="text" class="form-control" id="" placeholder="Input field">
 		</div>
-	
+	<textarea name="" id="input" class="form-control" rows="3" required="required"></textarea>
 		
 	
 		<button type="submit" class="btn btn-primary">Submit</button>
